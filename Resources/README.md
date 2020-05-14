@@ -1,0 +1,1 @@
+The Resources folder contains common goods that could be useful for work related to the WDI, but will not directly feed into it.  For instance, the folder contains code to scrape the contents of the World Bank and IHSN microdata libraries and datalibweb.  These items will likely never be published in the WDI.  They are mostly tips or tricks that may be useful for the WDI team.  

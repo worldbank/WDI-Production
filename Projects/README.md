@@ -1,0 +1,1 @@
+The Projects folder contains code and data for projects that will feed into the WDI.  The final outputs for these projects should be indicators or metadata for the WDI indicators.  For instance, a project to add subnational data to the WDI would be included here.  So would a code and data related to the metadata fields for countries. 
