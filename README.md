@@ -20,7 +20,7 @@ In contrast, the Resources folder contains common goods that could be useful for
 
 ## Organization for subfolders
 
-The organization specified below is not necessarily mandatory.  Individuals have their own styles.  However, some form of the following (perhaps with name differences or slight changes ot the organization) is manditory.  Having a common set of organizational practices will make it easier for others to understand the organization of your project.  Every project should have four components:
+The organization specified below is not necessarily mandatory.  Individuals have their own styles.  However, some form of the following (perhaps with name differences or slight changes ot the organization) is mandatory.  Having a common set of organizational practices will make it easier for others to understand the organization of your project.  Every project should have four components:
 
 1. 01_rawdata folder
 2. 02_programs folder
