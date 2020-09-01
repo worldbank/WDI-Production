@@ -1,0 +1,32 @@
+{
+    "id": "4FE8CA09",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598455578102.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "un_census",
+        "caption": "un_census",
+        "totalObservations": "238",
+        "displayedObservations": "238",
+        "variables": "4",
+        "cacheKey": "39657D05",
+        "object": "un_census",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=un_census&cache_key=39657D05&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 32370017462059056,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598455578102,
+    "read_only": false,
+    "read_only_alternatives": []
+}

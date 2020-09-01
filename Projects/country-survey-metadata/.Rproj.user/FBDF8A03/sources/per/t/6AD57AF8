@@ -1,0 +1,32 @@
+{
+    "id": "6AD57AF8",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598457226715.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "expression": "lending_groups",
+        "caption": "lending_groups",
+        "totalObservations": 5,
+        "displayedObservations": 5,
+        "variables": 2,
+        "cacheKey": "FD5DBF7B",
+        "object": "lending_groups",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=lending_groups&cache_key=FD5DBF7B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2543381539736,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598457226715,
+    "read_only": false,
+    "read_only_alternatives": []
+}

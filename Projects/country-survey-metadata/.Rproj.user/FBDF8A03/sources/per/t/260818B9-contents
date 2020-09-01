@@ -1,0 +1,19 @@
+library(tidyverse)
+library(wbstats)
+
+countries <- wbcountries()
+
+lending_groups <-  countries %>%
+  group_by(lendingID) %>%
+  summarise(n=n())
+
+countries_nonlending <- countries %>%
+  filter(lendingID=="LNX")
+
+gni_per_cap <- wb_data(
+                country='countries_only',
+                indicator=c('NY.GNP.PCAP.CD','SP.POP.TOTL'),
+                mrv=1) %>%
+  right_join(countries_nonlending) %>%
+  arrange(NY.GNP.PCAP.CD) %>%
+  write_excel_csv('C:/Users/wb469649/OneDrive - WBG/DECIS/SPI_AKI/non-borrowing_data_collection.csv')

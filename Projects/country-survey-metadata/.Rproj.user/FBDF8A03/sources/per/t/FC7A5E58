@@ -1,0 +1,32 @@
+{
+    "id": "FC7A5E58",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598457171284.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "countries",
+        "caption": "countries",
+        "totalObservations": "304",
+        "displayedObservations": "304",
+        "variables": "18",
+        "cacheKey": "5ABD164B",
+        "object": "countries",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=countries&cache_key=5ABD164B&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2542811063912,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598457171284,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FEBE28AA",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598458886051.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "expression": "gni_per_cap",
+        "caption": "gni_per_cap",
+        "totalObservations": "74",
+        "displayedObservations": "74",
+        "variables": "21",
+        "cacheKey": "E88DB26D",
+        "object": "gni_per_cap",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=gni_per_cap&cache_key=E88DB26D&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2459592266154403181,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598458886051,
+    "read_only": false,
+    "read_only_alternatives": []
+}

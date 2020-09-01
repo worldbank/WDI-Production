@@ -1,0 +1,24 @@
+{
+    "id": "5D1A12FB",
+    "path": "~/Github/WDI-Production/Projects/country-survey-metadata/r-scripts/create-survey-info-table.R",
+    "project_path": "r-scripts/create-survey-info-table.R",
+    "type": "r_source",
+    "hash": "1258852665",
+    "contents": "",
+    "dirty": false,
+    "created": 1598455401320.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "141,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1588589796,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1588589796,
+    "read_only": false,
+    "read_only_alternatives": []
+}
