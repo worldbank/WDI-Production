@@ -1,14 +1,8 @@
-This folder contains a blank template for a new project.  It contains the following:
+This folder contains the R script to extrapolate PPP conversion factors for GDP and private consumption for the years before 2011 and after 2017. The methodology with examples is further described here.
 
-1. 01_rawdata folder
-2. 02_programs folder
-3. 03_outputs folder  
-4. README.md
+1.	Extract CPI (FP.CPI.TOTL), GDP Deflator (NY.GDP.DEFL.ZS.AD) from 1990 to current year using the wbstats package from the World Development Indicators (WDI) database. It also extracts the PPP conversion factors for the two recent ICP benchmark years and the years in between, i.e. 2011-2017.
 
-01_rawdata contains any input files that are needed for the work.  For instance, this may include a csv file containing data that a World Bank colleague shared with you for this project.
+2.	Next, run the code Basic_code_for_extrapolated_PPPs.R which contains all the main steps and calculations along with annotations to produce the final output i.e. extrapolated PPP conversion factors for GDP and private consumption. This is stored under 02_programs. 
 
-02_programs contains all code used to produce the final output.  If multiple scripts are included, please include some sort of documentation on how to run the files in the README.md.
+3.	The extrapolated PPPs are stored under 03_outputs folder. Compare the result with the data already stored in the WDI database [PA.NUS.PPP (GDP), PA.NUS.PRVT.PP (private consumption)] as a validation check to see if the code produced the correct results. 
 
-03_outputs contains the final data produced for the project.  Again, this should be in csv form or have at least a copy of the data in csv format.
-
-README.md should contain a brief description of what the project is, how to run the code, and what the final output is.  This doesn't need to be long, but should provide some information.
